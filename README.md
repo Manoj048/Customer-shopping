@@ -2,7 +2,8 @@
 Exploratory data analysis 
 INSIGHTS
 
-1.40.2% of male customers are there forshopping/n
+1.40.2% of male customers are there forshopping.
+
 2.59.8% of female customers are there for shopping
 3.35-44 age group has the most customers with a count of 19436
 4.0-17 age group has the least customers with the count of 1844
